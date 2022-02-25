@@ -1,0 +1,4 @@
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+displayName = Isaac Accessories mod
+author = Miro
+version = 0.1

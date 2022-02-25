@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ay050LQty0EN0MFvi/uOPq7D1ceM2BE3ej3v/U3tFXqtnrPldQo0DNY7+zf2kjxrzs7H1EPgGscOw4a451mu7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miron\\OneDrive\\Документы\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\MirosTestMod\\MirosTestMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miron\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

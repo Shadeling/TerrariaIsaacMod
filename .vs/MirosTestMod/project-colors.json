@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64fe8711-74cb-4fbe-8c81-7656a6eabf7c": {
+      "ProjectGuid": "64fe8711-74cb-4fbe-8c81-7656a6eabf7c",
+      "DisplayName": "MirosTestMod",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
